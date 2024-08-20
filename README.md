@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @HarunKuru
+- 👋 Hi, I'm @HarunKuru
 - 👀 My interests are VBA, MS Excel and Access, Automation Programming, C# and Python.
 - 🌱 I have intermediate-high level knowledge of VBA and Excel. I am currently working on developing a professional Excel Add-in. I am also learning C# and Python and continuing to improve my Excel VBA skills.
 - 💞️ I translate projects that I can improve myself into Turkish and I am thinking of collaborating for a freer Software World.
